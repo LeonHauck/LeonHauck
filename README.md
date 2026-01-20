@@ -17,40 +17,27 @@ Analista de Dados em transição para áreas estratégicas de tecnologia, focado
 
 ### 🛠️ Tech Stack & Ferramentas
 
-**Development (Full Stack)**
-<div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" title="Java" width="40px" style="padding-right: 10px;" />
-    <img src="https://cdn.jsdelivr.net" alt="HTML5" title="HTML5" width="40px" style="padding-right: 10px;" />
-    <img src="https://cdn.jsdelivr.net" alt="CSS3" title="CSS3" width="40px" style="padding-right: 10px;" />
-    <img src="https://cdn.jsdelivr.net" alt="JavaScript" title="JavaScript" width="40px" style="padding-right: 10px;" />
-</div>
-
-<br/>
-
-**Data & Analytics**
-<div>
-    <img src="https://cdn.jsdelivr.net" alt="SQL" title="SQL" width="40px" style="padding-right: 10px;" />
-    <img src="https://cdn.jsdelivr.net" alt="Python" title="Python" width="40px" style="padding-right: 10px;" />
-    <img src="https://raw.githubusercontent.com" alt="Power BI" title="Power BI" width="40px" style="padding-right: 10px;" />
-</div>
-
-<br/>
+**Development & Data**
+[![Java](https://skillicons.dev)](https://skillicons.dev)
+[![HTML](https://skillicons.dev)](https://skillicons.dev)
+[![CSS](https://skillicons.dev)](https://skillicons.dev)
+[![JS](https://skillicons.dev)](https://skillicons.dev)
+[![Python](https://skillicons.dev)](https://skillicons.dev)
+[![Postgres](https://skillicons.dev)](https://skillicons.dev)
 
 **AI & Automation**
-<div>
-    <img src="https://cdn.jsdelivr.net" alt="IA Generativa" title="IA Generativa" width="40px" style="padding-right: 10px;" />
-    <img src="https://cdn.jsdelivr.net" alt="APIs" title="APIs" width="40px" style="padding-right: 10px;" />
-</div>
+[![OpenAI](https://skillicons.dev)](https://skillicons.dev)
+[![Postman](https://skillicons.dev)](https://skillicons.dev)
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 Estatísticas do GitHub (Alternativa Estável)
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app" />
-  <img height="180em" src="https://github-readme-stats.vercel.app" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app" alt="Estatísticas de Leon" />
+  <br/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app" alt="Linguagens de Leon" />
 </div>
-
 ---
 
 ### 🤝 Vamos nos conectar?
