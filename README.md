@@ -18,28 +18,30 @@ Analista de Dados em transição para áreas estratégicas de tecnologia, focado
 ### 🛠️ Tech Stack & Ferramentas
 
 **Development (Full Stack)**
-![Java](https://img.shields.io)
-![HTML5](https://img.shields.io)
-![CSS3](https://img.shields.io)
-![JavaScript](https://img.shields.io)
+<img src="https://img.shields.io" />
+<img src="https://img.shields.io" />
+<img src="https://img.shields.io" />
+<img src="https://img.shields.io" />
 
 **Data & Analytics**
-![SQL](https://img.shields.io)
-![Power BI](https://img.shields.io)
-![Python](https://img.shields.io)
-![Excel](https://img.shields.io)
+<img src="https://img.shields.io" />
+<img src="https://img.shields.io" />
+<img src="https://img.shields.io" />
 
 **AI & Automation**
-![Generative AI](https://img.shields.io)
-![APIs](https://img.shields.io)
+<img src="https://img.shields.io" />
+<img src="https://img.shields.io" />
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app"/>
+  <!-- Estatísticas Gerais -->
+  <img height="180em" src="https://github-readme-stats.vercel.app" />
+  
+  <!-- Linguagens mais usadas -->
+  <img height="180em" src="https://github-readme-stats.vercel.app" />
 </div>
 
 ---
