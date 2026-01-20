@@ -1,4 +1,4 @@
-# Olá, eu sou o Leon Hauck 👋
+# Olá, Eu sou o Leon Hauck 👋
 
 ### 📊 Analista de Dados | Dev Java & Web | IA_Generativa | Lean Six Sigma Black Belt
 
@@ -18,13 +18,29 @@ Analista de Dados em transição para áreas estratégicas de tecnologia, focado
 ### 🛠️ Tech Stack & Ferramentas
 
 **Development (Full Stack)**
-<img src="https://img.shields.io" /> <img src="https://img.shields.io" /> <img src="https://img.shields.io" /> <img src="https://img.shields.io" />
+<div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" title="Java" width="40px" style="padding-right: 10px;" />
+    <img src="https://cdn.jsdelivr.net" alt="HTML5" title="HTML5" width="40px" style="padding-right: 10px;" />
+    <img src="https://cdn.jsdelivr.net" alt="CSS3" title="CSS3" width="40px" style="padding-right: 10px;" />
+    <img src="https://cdn.jsdelivr.net" alt="JavaScript" title="JavaScript" width="40px" style="padding-right: 10px;" />
+</div>
+
+<br/>
 
 **Data & Analytics**
-<img src="https://img.shields.io" /> <img src="https://img.shields.io" /> <img src="https://img.shields.io" />
+<div>
+    <img src="https://cdn.jsdelivr.net" alt="SQL" title="SQL" width="40px" style="padding-right: 10px;" />
+    <img src="https://cdn.jsdelivr.net" alt="Python" title="Python" width="40px" style="padding-right: 10px;" />
+    <img src="https://raw.githubusercontent.com" alt="Power BI" title="Power BI" width="40px" style="padding-right: 10px;" />
+</div>
+
+<br/>
 
 **AI & Automation**
-<img src="https://img.shields.io" /> <img src="https://img.shields.io" />
+<div>
+    <img src="https://cdn.jsdelivr.net" alt="IA Generativa" title="IA Generativa" width="40px" style="padding-right: 10px;" />
+    <img src="https://cdn.jsdelivr.net" alt="APIs" title="APIs" width="40px" style="padding-right: 10px;" />
+</div>
 
 ---
 
@@ -39,13 +55,12 @@ Analista de Dados em transição para áreas estratégicas de tecnologia, focado
 
 ### 🤝 Vamos nos conectar?
 
-Se você busca um profissional analítico, comprometido com resultados e movido por inovação, vamos conversar!
-
 *   **LinkedIn:** [://linkedin.com](https://www.linkedin.com/in/leon-hauck/)
 *   **E-mail:** [Leonhauck98@gmail.com](mailto:Leonhauck98@gmail.com)
 
 ---
 
 *"O código nunca mente, os comentários às vezes sim."*
+
 
 
