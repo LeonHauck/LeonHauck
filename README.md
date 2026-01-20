@@ -18,32 +18,45 @@ Analista de Dados em transição para áreas estratégicas de tecnologia, focado
 ### 🛠️ Tech Stack & Ferramentas
 
 **Development & Data**
-[![Java](https://skillicons.dev)](https://skillicons.dev)
-[![HTML](https://skillicons.dev)](https://skillicons.dev)
-[![CSS](https://skillicons.dev)](https://skillicons.dev)
-[![JS](https://skillicons.dev)](https://skillicons.dev)
-[![Python](https://skillicons.dev)](https://skillicons.dev)
-[![Postgres](https://skillicons.dev)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,py,anaconda,cloudflare,firebase,java,mysql,nodejs)](https://skillicons.dev)
+    
 
 **AI & Automation**
-[![OpenAI](https://skillicons.dev)](https://skillicons.dev)
-[![Postman](https://skillicons.dev)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=bots,aiscript,azure,npm,postman)](https://skillicons.dev)
 
 ---
 
 ### 📊 Estatísticas do GitHub (Alternativa Estável)
 
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app" alt="Estatísticas de Leon" />
-  <br/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app" alt="Linguagens de Leon" />
-</div>
----
+<p>
+  <img 
+    align="center" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=LeonHauck&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<br/>
+<br/>
+
+
 
 ### 🤝 Vamos nos conectar?
 
-*   **LinkedIn:** [://linkedin.com](https://www.linkedin.com/in/leon-hauck/)
-*   **E-mail:** [Leonhauck98@gmail.com](mailto:Leonhauck98@gmail.com)
+
+
+
+
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev) 
+**LinkedIn:**[://linkedin.com](https://www.linkedin.com/in/leon-hauck/)
+
+
+
+[![My Skills](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev) 
+**E-mail:** [Leonhauck98@gmail.com](mailto:Leonhauck98@gmail.com)
 
 ---
 
