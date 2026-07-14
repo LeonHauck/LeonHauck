@@ -28,22 +28,6 @@ Analista de Dados em transição para áreas estratégicas de tecnologia, focado
 
 ---
 
-### 📊 Estatísticas do GitHub (Alternativa Estável)
-
-<p>
-  <img 
-    align="center" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=LeonHauck&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<br/>
-<br/>
-
-
-
 ### 🤝 Vamos nos conectar?
 
 
