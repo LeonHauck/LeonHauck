@@ -1,8 +1,8 @@
 # Olá, Eu sou o Leon Hauck 👋
 
-### 📊 Analista de Dados | Dev Java & Web | IA_Generativa | Lean Six Sigma Black Belt
+### 📊 Dev Full Stack | Analista de Dados | IA_Generativa | Lean Six Sigma Black Belt
 
-Analista de Dados em transição para áreas estratégicas de tecnologia, focado em **Desenvolvimento Java**, **IA Generativa** e **Engenharia de Prompts**. Com mais de 7 anos de experiência, busco unir o desenvolvimento de software moderno à análise de dados estratégica.
+Desenvolvedor Full Stack e Analista de Dados, focado em **Desenvolvimento Java & Web**, **IA Generativa** e **Engenharia de Prompts**. Com mais de 7 anos de experiência, busco unir o desenvolvimento de software moderno à análise de dados estratégica.
 
 ---
 
