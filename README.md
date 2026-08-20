@@ -19,12 +19,16 @@ Desenvolvedor Full Stack e Analista de Dados, focado em **Desenvolvimento Java &
 
 **Development & Data**
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,py,anaconda,cloudflare,firebase,java,mysql,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,java,mysql,nodejs,php)](https://skillicons.dev)
+
+**Tools**
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,aws,github,git,netlify,angular,powershell,cloudflare,firebase,anaconda,docker,fastapi,react)](https://skillicons.dev)
     
 
 **AI & Automation**
 
-[![My Skills](https://skillicons.dev/icons?i=bots,aiscript,azure,npm,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bots,aiscript,azure,ai,npm,postman)](https://skillicons.dev)
 
 ---
 
