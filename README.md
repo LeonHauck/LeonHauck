@@ -46,16 +46,16 @@ Desenvolvedor Full Stack e Analista de Dados, focado em **Desenvolvimento Java &
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=55&section=header&text=%F0%9F%93%88%20Estat%C3%ADsticas%20do%20GitHub&fontColor=00FF9C&fontSize=24&fontAlignY=65" width="100%"/>
 
 <p align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=LeonHauck&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=C9D1D9&ring_color=00FF9C&locale=pt-br" alt="Estatísticas do GitHub"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonHauck&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=C9D1D9&langs_count=8&locale=pt-br" alt="Linguagens mais usadas"/>
+  <img height="175em" src="https://github-readme-stats-eta-mauve-43.vercel.app/api?username=LeonHauck&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=C9D1D9&ring_color=00FF9C&locale=pt-br" alt="Estatísticas do GitHub"/>
+  <img height="175em" src="https://github-readme-stats-eta-mauve-43.vercel.app/api/top-langs/?username=LeonHauck&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=C9D1D9&langs_count=8&locale=pt-br" alt="Linguagens mais usadas"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=LeonHauck&theme=dark&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&locale=pt-br" alt="Sequência de contribuições"/>
+  <img src="https://github-readme-streak-stats-v2-sand.vercel.app/?user=LeonHauck&theme=dark&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&locale=pt-br" alt="Sequência de contribuições"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LeonHauck&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="Troféus do GitHub"/>
+  <img src="https://raw.githubusercontent.com/LeonHauck/LeonHauck/output/trophy.svg" alt="Troféus do GitHub"/>
 </p>
 
 <br/>
