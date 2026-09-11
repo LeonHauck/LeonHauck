@@ -26,7 +26,7 @@ jobs:
       - name: Generate trophy card
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.TROPHY_TOKEN }}
           username: LeonHauck
           file: dist/trophy.svg
           theme: onedark
