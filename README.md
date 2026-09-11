@@ -27,7 +27,7 @@ Desenvolvedor Full Stack e Analista de Dados, focado em **Desenvolvimento Java &
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=55&section=header&text=%E2%9A%99%EF%B8%8F%20Tech%20Stack%20%26%20Ferramentas&fontColor=00FF9C&fontSize=25&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=55&section=header&text=%E2%9A%99%EF%B8%8F%20Tech%20Stack%20e%20Ferramentas&fontColor=00FF9C&fontSize=25&fontAlignY=65" width="100%"/>
 
 **Development & Data**
 
