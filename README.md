@@ -18,7 +18,7 @@ Desenvolvedor Full Stack e Analista de Dados, focado em **Desenvolvimento Java &
 
 <br/>
 
-## 🚀 Sobre mim
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=55&section=header&text=%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB%20Sobre%20mim&fontColor=00FF9C&fontSize=24&fontAlignY=65" width="100%"/>
 
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas**
 - 🏆 Certificação **Lean Six Sigma Black Belt** (melhoria contínua e eficiência operacional)
@@ -27,7 +27,7 @@ Desenvolvedor Full Stack e Analista de Dados, focado em **Desenvolvimento Java &
 
 <br/>
 
-## 🛠️ Tech Stack & Ferramentas
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=55&section=header&text=%E2%9A%99%EF%B8%8F%20Tech%20Stack%20%26%20Ferramentas&fontColor=00FF9C&fontSize=24&fontAlignY=65" width="100%"/>
 
 **Development & Data**
 
@@ -43,7 +43,7 @@ Desenvolvedor Full Stack e Analista de Dados, focado em **Desenvolvimento Java &
 
 <br/>
 
-## 📊 Estatísticas do GitHub
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=55&section=header&text=%F0%9F%93%88%20Estat%C3%ADsticas%20do%20GitHub&fontColor=00FF9C&fontSize=24&fontAlignY=65" width="100%"/>
 
 <p align="center">
   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=LeonHauck&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=C9D1D9&ring_color=00FF9C&locale=pt-br" alt="Estatísticas do GitHub"/>
@@ -60,7 +60,7 @@ Desenvolvedor Full Stack e Analista de Dados, focado em **Desenvolvimento Java &
 
 <br/>
 
-## 🐍 Atividade recente
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=55&section=header&text=%F0%9F%90%8D%20Atividade%20recente&fontColor=00FF9C&fontSize=24&fontAlignY=65" width="100%"/>
 
 <p align="center">
   <picture>
@@ -72,7 +72,7 @@ Desenvolvedor Full Stack e Analista de Dados, focado em **Desenvolvimento Java &
 
 <br/>
 
-## 🤝 Vamos nos conectar?
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=55&section=header&text=%F0%9F%94%97%20Vamos%20nos%20conectar%3F&fontColor=00FF9C&fontSize=24&fontAlignY=65" width="100%"/>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/leon-hauck/">
