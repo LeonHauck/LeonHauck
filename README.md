@@ -27,19 +27,43 @@ Desenvolvedor Full Stack e Analista de Dados, focado em **Desenvolvimento Java &
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=55&section=header&text=%E2%9A%99%EF%B8%8F%20Tech%20Stack%20%26%20Ferramentas&fontColor=00FF9C&fontSize=24&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=55&section=header&text=%E2%9A%99%EF%B8%8F%20Tech%20Stack%20%26%20Ferramentas&fontColor=00FF9C&fontSize=25&fontAlignY=65" width="100%"/>
 
 **Development & Data**
 
-<img src="https://skillicons.dev/icons?i=js,html,css,py,java,mysql,nodejs,php&theme=dark" alt="Development & Data icons"/>
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=00FF9C)
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=00FF9C)
+![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=00FF9C)
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00FF9C)
+![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=00FF9C)
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=00FF9C)
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=00FF9C)
+![PHP](https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=00FF9C)
 
 **Tools & Cloud**
 
-<img src="https://skillicons.dev/icons?i=vscode,aws,github,git,netlify,angular,powershell,cloudflare,firebase,anaconda,docker,fastapi,react&theme=dark" alt="Tools & Cloud icons"/>
+![VS Code](https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=00FF9C)
+![AWS](https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazonaws&logoColor=00FF9C)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF9C)
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=00FF9C)
+![Netlify](https://img.shields.io/badge/Netlify-0D1117?style=for-the-badge&logo=netlify&logoColor=00FF9C)
+![Angular](https://img.shields.io/badge/Angular-0D1117?style=for-the-badge&logo=angular&logoColor=00FF9C)
+![PowerShell](https://img.shields.io/badge/PowerShell-0D1117?style=for-the-badge&logo=powershell&logoColor=00FF9C)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-0D1117?style=for-the-badge&logo=cloudflare&logoColor=00FF9C)
+![Firebase](https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=00FF9C)
+![Anaconda](https://img.shields.io/badge/Anaconda-0D1117?style=for-the-badge&logo=anaconda&logoColor=00FF9C)
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=00FF9C)
+![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=00FF9C)
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=00FF9C)
 
-**AI & Automation**
+**IA & Automação**
 
-<img src="https://skillicons.dev/icons?i=bots,aiscript,azure,ai,npm,postman&theme=dark" alt="AI & Automation icons"/>
+![OpenAI](https://img.shields.io/badge/OpenAI-0D1117?style=for-the-badge&logo=openai&logoColor=00FF9C)
+![Azure](https://img.shields.io/badge/Azure-0D1117?style=for-the-badge&logo=microsoftazure&logoColor=00FF9C)
+![npm](https://img.shields.io/badge/npm-0D1117?style=for-the-badge&logo=npm&logoColor=00FF9C)
+![Postman](https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&logoColor=00FF9C)
+![IA Generativa](https://img.shields.io/badge/IA_Generativa-0D1117?style=for-the-badge)
+![Engenharia de Prompts](https://img.shields.io/badge/Engenharia_de_Prompts-0D1117?style=for-the-badge)
 
 <br/>
 
