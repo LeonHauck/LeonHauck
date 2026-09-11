@@ -1,4 +1,4 @@
-# Olá, Eu sou o Leon Hauck 👋
+#Eu sou o Leon Hauck 👋
 
 ### 📊 Dev Full Stack | Analista de Dados | IA_Generativa | Lean Six Sigma Black Belt
 
