@@ -8,7 +8,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=LeonHauck&color=00FF9C&style=for-the-badge&label=Visualiza%C3%A7%C3%B5es)
+![Visualizações do perfil](https://hits.sh/github.com/LeonHauck.svg?style=for-the-badge&label=Visualiza%C3%A7%C3%B5es&color=0D1117&labelColor=0D1117&extraCount=157)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF9C)](https://www.linkedin.com/in/leon-hauck/)
 [![Gmail](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF9C)](mailto:Leonhauck98@gmail.com)
 
