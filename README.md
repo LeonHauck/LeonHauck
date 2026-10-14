@@ -75,7 +75,7 @@ Desenvolvedor Full Stack e Analista de Dados, focado em **Desenvolvimento Java &
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-v2-sand.vercel.app/?user=LeonHauck&theme=dark&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&locale=pt-br" alt="Sequência de contribuições"/>
+  <img src="https://github-readme-streak-stats-v2-sand.vercel.app/?user=LeonHauck&theme=dark&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&locale=pt-br&v=2" alt="Sequência de contribuições"/>
 </p>
 
 <p align="center">
